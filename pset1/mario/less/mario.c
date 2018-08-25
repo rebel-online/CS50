@@ -17,7 +17,7 @@ int main(void)
         {
             printf(" ");
         }
-        for (int k = i;k < n+i;k++)
+        for (int k = n-2;k < n+i;k++)
         {
             printf("#");
         }
